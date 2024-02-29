@@ -6,7 +6,7 @@ SwiftBar Ping is a plugin for SwiftBar to ping an IP and alert if the ping fails
 
 If you have SwiftBar already installed and running, jump to step 3.
 
-1. Install SwiftBar if it's not already installed: `brew install swiftbar`
+1. Install [SwiftBar](https://github.com/swiftbar/SwiftBar) if it's not already installed: `brew install swiftbar`
 2. Run Swiftbar and set your plugins directory
 3. Save [ping-status.1s.js](./ping-status.1s.js) to your plugins directory
 
