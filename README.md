@@ -8,7 +8,7 @@ If you have SwiftBar already installed and running, jump to step 3.
 
 1. Install SwiftBar if it's not already installed: `brew install swiftbar`
 2. Run Swiftbar and set your plugins directory
-3. Save `ping-status.1s.js` to your plugins directory
+3. Save [ping-status.1s.js](./ping-status.1s.js) to your plugins directory
 
 ## Usage
 
